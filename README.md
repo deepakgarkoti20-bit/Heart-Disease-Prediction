@@ -110,7 +110,7 @@ For any real health-related concerns, a qualified healthcare professional should
 
 👨‍💻 Author
 
-[Your Name]
+Deepak Garkoti
 
 Student | B.Tech CSE (AI & ML)
 
